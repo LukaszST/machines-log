@@ -1,0 +1,80 @@
+             /////////////                lurbaniak@pop-os 
+         /////////////////////            ---------------- 
+      ///////*767////////////////         OS: Pop!_OS 22.04 LTS x86_64 
+    //////7676767676*//////////////       Host: 20UN002CMX ThinkPad X1 Nano Gen 
+   /////76767//7676767//////////////      Kernel: 6.9.3-76060903-generic 
+  /////767676///*76767///////////////     Uptime: 1 hour, 1 min 
+ ///////767676///76767.///7676*///////    Packages: 1869 (dpkg), 21 (flatpak) 
+/////////767676//76767///767676////////   Shell: bash 5.1.16 
+//////////76767676767////76767/////////   Resolution: 3456x2160 
+///////////76767676//////7676//////////   DE: GNOME 42.9 
+////////////,7676,///////767///////////   WM: Mutter 
+/////////////*7676///////76////////////   WM Theme: Pop 
+///////////////7676////////////////////   Theme: Pop [GTK2/3] 
+ ///////////////7676///767////////////    Icons: Pop [GTK2/3] 
+  //////////////////////'////////////     Terminal: gnome-terminal 
+   //////.7676767676767676767,//////      CPU: 11th Gen Intel i5-1130G7 (8) @ 4 
+    /////767676767676767676767/////       GPU: Intel Device 9a40 
+      ///////////////////////////         Memory: 7980MiB / 15713MiB 
+         /////////////////////
+             /////////////                                        
+                                                                  
+                                                                  
+                   PassMark PerformanceTest Linux (11.0.1002)
+
+Balanced Mode
+
+11th Gen Intel Core i5-1130G7 @ 1.10GHz (x86_64)
+4 cores @ 4000 MHz  |  15.3 GiB RAM
+Number of Processes: 8  |  Test Iterations: 1  |  Test Duration: Medium
+--------------------------------------------------------------------------------
+CPU Mark:                          6861
+  Integer Math                     31872 Million Operations/s
+  Floating Point Math              16789 Million Operations/s
+  Prime Numbers                    33.1 Million Primes/s
+  Sorting                          9101 Thousand Strings/s
+  Encryption                       3789 MB/s
+  Compression                      58903 KB/s
+  CPU Single Threaded              2680 Million Operations/s
+  Physics                          500 Frames/s
+  Extended Instructions (SSE)      3491 Million Matrices/s
+
+Memory Mark:                       2099
+  Database Operations              2213 Thousand Operations/s
+  Memory Read Cached               25206 MB/s
+  Memory Read Uncached             14447 MB/s
+  Memory Write                     13673 MB/s
+  Available RAM                    3122 Megabytes
+  Memory Latency                   54 Nanoseconds
+  Memory Threaded                  55929 MB/s
+--------------------------------------------------------------------------------
+
+High Performance Mode
+
+                   PassMark PerformanceTest Linux (11.0.1002)
+
+
+11th Gen Intel Core i5-1130G7 @ 1.10GHz (x86_64)
+4 cores @ 4000 MHz  |  15.3 GiB RAM
+Number of Processes: 8  |  Test Iterations: 1  |  Test Duration: Medium
+--------------------------------------------------------------------------------
+CPU Mark:                          9158
+  Integer Math                     31883 Million Operations/s
+  Floating Point Math              16780 Million Operations/s
+  Prime Numbers                    42.0 Million Primes/s
+  Sorting                          12634 Thousand Strings/s
+  Encryption                       5554 MB/s
+  Compression                      93956 KB/s
+  CPU Single Threaded              2709 Million Operations/s
+  Physics                          800 Frames/s
+  Extended Instructions (SSE)      5186 Million Matrices/s
+
+Memory Mark:                       2279
+  Database Operations              3020 Thousand Operations/s
+  Memory Read Cached               26642 MB/s
+  Memory Read Uncached             14420 MB/s
+  Memory Write                     13527 MB/s
+  Available RAM                    3153 Megabytes
+  Memory Latency                   45 Nanoseconds
+  Memory Threaded                  56064 MB/s
+--------------------------------------------------------------------------------
