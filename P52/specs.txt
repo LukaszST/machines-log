@@ -1,0 +1,85 @@
+            .-/+oossssoo+/-.               lukasz@lukasz-ThinkPad-P52 
+        `:+ssssssssssssssssss+:`           -------------------------- 
+      -+ssssssssssssssssssyyssss+-         OS: Ubuntu 22.04.1 LTS x86_64 
+    .ossssssssssssssssssdMMMNysssso.       Host: 20M90017MH ThinkPad P52 
+   /ssssssssssshdmmNNmmyNMMMMhssssss/      Kernel: 5.15.0-53-generic 
+  +ssssssssshmydMMMMMMMNddddyssssssss+     Uptime: 6 mins 
+ /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Packages: 1774 (dpkg), 9 (snap) 
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Shell: bash 5.1.16 
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   Resolution: 3840x2160 
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   DE: GNOME 42.2 
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM: Mutter 
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   WM Theme: Adwaita 
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Theme: Yaru [GTK2/3] 
+ /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    Icons: Yaru [GTK2/3] 
+  +sssssssssdmydMMMMMMMMddddyssssssss+     Terminal: gnome-terminal 
+   /ssssssssssshdmNNNNmyNMMMMhssssss/      CPU: Intel i7-8850H (12) @ 4.300GHz 
+    .ossssssssssssssssssdMMMNysssso.       GPU: NVIDIA Quadro P2000 Mobile 
+      -+sssssssssssssssssyyyssss+-         GPU: Intel CoffeeLake-H GT2 [UHD Graphics 630] 
+        `:+ssssssssssssssssss+:`           Memory: 1634MiB / 63930MiB 
+            .-/+oossssoo+/-.
+                                                                   
+                                                                   
+
+
+
+
+Balanced Mode
+                   PassMark PerformanceTest Linux (11.0.1002)
+
+
+Intel Core i7-8850H CPU @ 2.60GHz (x86_64)
+6 cores @ 4300 MHz  |  62.4 GiB RAM
+Number of Processes: 12  |  Test Iterations: 1  |  Test Duration: Medium
+--------------------------------------------------------------------------------
+CPU Mark:                          11124
+  Integer Math                     42281 Million Operations/s
+  Floating Point Math              24980 Million Operations/s
+  Prime Numbers                    37.0 Million Primes/s
+  Sorting                          17025 Thousand Strings/s
+  Encryption                       4147 MB/s
+  Compression                      142387 KB/s
+  CPU Single Threaded              2629 Million Operations/s
+  Physics                          854 Frames/s
+  Extended Instructions (SSE)      7810 Million Matrices/s
+
+Memory Mark:                       3566
+  Database Operations              4811 Thousand Operations/s
+  Memory Read Cached               29618 MB/s
+  Memory Read Uncached             17454 MB/s
+  Memory Write                     14919 MB/s
+  Available RAM                    61640 Megabytes
+  Memory Latency                   29 Nanoseconds
+  Memory Threaded                  33021 MB/s
+--------------------------------------------------------------------------------
+
+
+Performance Mode
+                   PassMark PerformanceTest Linux (11.0.1002)
+
+
+Intel Core i7-8850H CPU @ 2.60GHz (x86_64)
+6 cores @ 4300 MHz  |  62.4 GiB RAM
+Number of Processes: 12  |  Test Iterations: 1  |  Test Duration: Medium
+--------------------------------------------------------------------------------
+CPU Mark:                          11181
+  Integer Math                     43292 Million Operations/s
+  Floating Point Math              25227 Million Operations/s
+  Prime Numbers                    38.7 Million Primes/s
+  Sorting                          16531 Thousand Strings/s
+  Encryption                       4394 MB/s
+  Compression                      135512 KB/s
+  CPU Single Threaded              2653 Million Operations/s
+  Physics                          849 Frames/s
+  Extended Instructions (SSE)      7664 Million Matrices/s
+
+Memory Mark:                       3524
+  Database Operations              4624 Thousand Operations/s
+  Memory Read Cached               29485 MB/s
+  Memory Read Uncached             17419 MB/s
+  Memory Write                     14879 MB/s
+  Available RAM                    60396 Megabytes
+  Memory Latency                   30 Nanoseconds
+  Memory Threaded                  33013 MB/s
+--------------------------------------------------------------------------------
+
