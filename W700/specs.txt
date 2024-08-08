@@ -1,0 +1,51 @@
+             ...-:::::-...                 mint@mint 
+          .-MMMMMMMMMMMMMMM-.              --------- 
+      .-MMMM`..-:::::::-..`MMMM-.          OS: Linux Mint 21.3 x86_64 
+    .:MMMM.:MMMMMMMMMMMMMMM:.MMMM:.        Host: 275875G ThinkPad W700 
+   -MMM-M---MMMMMMMMMMMMMMMMMMM.MMM-       Kernel: 5.15.0-91-generic 
+ `:MMM:MM`  :MMMM:....::-...-MMMM:MMM:`    Uptime: 3 mins 
+ :MMM:MMM`  :MM:`  ``    ``  `:MMM:MMM:    Packages: 2085 (dpkg) 
+.MMM.MMMM`  :MM.  -MM.  .MM-  `MMMM.MMM.   Shell: bash 5.1.16 
+:MMM:MMMM`  :MM.  -MM-  .MM:  `MMMM-MMM:   Resolution: 1920x1200 
+:MMM:MMMM`  :MM.  -MM-  .MM:  `MMMM:MMM:   DE: Xfce 4.18 
+:MMM:MMMM`  :MM.  -MM-  .MM:  `MMMM-MMM:   WM: Xfwm4 
+.MMM.MMMM`  :MM:--:MM:--:MM:  `MMMM.MMM.   WM Theme: Mint-Y-Aqua 
+ :MMM:MMM-  `-MMMMMMMMMMMM-`  -MMM-MMM:    Theme: Mint-Y-Aqua [GTK2/3] 
+  :MMM:MMM:`                `:MMM:MMM:     Icons: Mint-Y-Sand [GTK2/3] 
+   .MMM.MMMM:--------------:MMMM.MMM.      Terminal: xfce4-terminal 
+     '-MMMM.-MMMMMMMMMMMMMMM-.MMMM-'       Terminal Font: Monospace 12 
+       '.-MMMM``--:::::--``MMMM-.'         CPU: Intel Core 2 Extreme Q9300 (4) @ 2.534GHz 
+            '-MMMMMMMMMMMMM-'              GPU: NVIDIA Quadro FX 3700M 
+               ``-:::::-``                 Memory: 658MiB / 7864MiB 
+
+                                                      PassMark PerformanceTest Linux (11.0.1002)
+
+
+Intel Core2 Extreme CPU Q9300  @ 2.53GHz (x86_64)
+4 cores @ 2534 MHz  |  7.7 GiB RAM
+Number of Processes: 4  |  Test Iterations: 1  |  Test Duration: Medium
+--------------------------------------------------------------------------------
+CPU Mark:                          2448
+  Integer Math                     10799 Million Operations/s
+  Floating Point Math              6326 Million Operations/s
+  Prime Numbers                    18.5 Million Primes/s
+  Sorting                          5458 Thousand Strings/s
+  Encryption                       601 MB/s
+  Compression                      44826 KB/s
+  CPU Single Threaded              1234 Million Operations/s
+  Physics                          246 Frames/s
+  Extended Instructions (SSE)      1028 Million Matrices/s
+
+Memory Mark:                       976
+  Database Operations              1261 Thousand Operations/s
+  Memory Read Cached               12279 MB/s
+  Memory Read Uncached             5226 MB/s
+  Memory Write                     2139 MB/s
+  Available RAM                    3172 Megabytes
+  Memory Latency                   55 Nanoseconds
+  Memory Threaded                  6669 MB/s
+--------------------------------------------------------------------------------
+                                
+                                                                   
+
+
