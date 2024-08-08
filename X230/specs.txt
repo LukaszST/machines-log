@@ -1,0 +1,80 @@
+            .-/+oossssoo+/-.               lukasz@ThinkPad-X230
+        `:+ssssssssssssssssss+:`           --------------------
+      -+ssssssssssssssssssyyssss+-         OS: Ubuntu 24.04 LTS x86_64
+    .ossssssssssssssssssdMMMNysssso.       Host: 23202LG ThinkPad X230
+   /ssssssssssshdmmNNmmyNMMMMhssssss/      Kernel: 6.8.0-39-generic
+  +ssssssssshmydMMMMMMMNddddyssssssss+     Uptime: 15 hours, 20 mins
+ /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Packages: 1984 (dpkg), 7 (flatpak), 11 (snap)
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Shell: bash 5.2.21
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   Resolution: 1366x768
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   DE: GNOME 46.0
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM: Mutter
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   WM Theme: Adwaita
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Theme: Yaru-red-dark [GTK2/3]
+ /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    Icons: Yaru-red [GTK2/3]
+  +sssssssssdmydMMMMMMMMddddyssssssss+     Terminal: gnome-terminal
+   /ssssssssssshdmNNNNmyNMMMMhssssss/      CPU: Intel i7-3520M (4) @ 3.600GHz
+    .ossssssssssssssssssdMMMNysssso.       GPU: Intel 3rd Gen Core processor Graphics Controller
+      -+sssssssssssssssssyyyssss+-         Memory: 2278MiB / 15806MiB
+        `:+ssssssssssssssssss+:`
+            .-/+oossssoo+/-.
+
+
+
+Balanced Mode
+                   PassMark PerformanceTest Linux (11.0.1002)
+
+
+Intel Core i7-3520M CPU @ 2.90GHz (x86_64)
+2 cores @ 3600 MHz  |  15.4 GiB RAM
+Number of Processes: 4  |  Test Iterations: 1  |  Test Duration: Medium
+--------------------------------------------------------------------------------
+CPU Mark:                          3448
+  Integer Math                     11127 Million Operations/s
+  Floating Point Math              5889 Million Operations/s
+  Prime Numbers                    15.8 Million Primes/s
+  Sorting                          8032 Thousand Strings/s
+  Encryption                       1055 MB/s
+  Compression                      52420 KB/s
+  CPU Single Threaded              2061 Million Operations/s
+  Physics                          307 Frames/s
+  Extended Instructions (SSE)      2062 Million Matrices/s
+
+Memory Mark:                       2181
+  Database Operations              1367 Thousand Operations/s
+  Memory Read Cached               22887 MB/s
+  Memory Read Uncached             14378 MB/s
+  Memory Write                     8962 MB/s
+  Available RAM                    11521 Megabytes
+  Memory Latency                   47 Nanoseconds
+  Memory Threaded                  20379 MB/s
+--------------------------------------------------------------------------------
+
+Performance Mode
+                   PassMark PerformanceTest Linux (11.0.1002)
+
+
+Intel Core i7-3520M CPU @ 2.90GHz (x86_64)
+2 cores @ 3600 MHz  |  15.4 GiB RAM
+Number of Processes: 4  |  Test Iterations: 1  |  Test Duration: Medium
+--------------------------------------------------------------------------------
+CPU Mark:                          3460
+  Integer Math                     11100 Million Operations/s
+  Floating Point Math              5901 Million Operations/s
+  Prime Numbers                    16.2 Million Primes/s
+  Sorting                          8054 Thousand Strings/s
+  Encryption                       1066 MB/s
+  Compression                      52392 KB/s
+  CPU Single Threaded              2066 Million Operations/s
+  Physics                          310 Frames/s
+  Extended Instructions (SSE)      2055 Million Matrices/s
+
+Memory Mark:                       2159
+  Database Operations              1367 Thousand Operations/s
+  Memory Read Cached               22144 MB/s
+  Memory Read Uncached             14304 MB/s
+  Memory Write                     8966 MB/s
+  Available RAM                    11604 Megabytes
+  Memory Latency                   48 Nanoseconds
+  Memory Threaded                  20317 MB/s
+--------------------------------------------------------------------------------
