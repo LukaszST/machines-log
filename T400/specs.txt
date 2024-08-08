@@ -1,0 +1,50 @@
+             ...-:::::-...                 mint@mint 
+          .-MMMMMMMMMMMMMMM-.              --------- 
+      .-MMMM`..-:::::::-..`MMMM-.          OS: Linux Mint 21.3 x86_64 
+    .:MMMM.:MMMMMMMMMMMMMMM:.MMMM:.        Host: 2768WCC ThinkPad T400 
+   -MMM-M---MMMMMMMMMMMMMMMMMMM.MMM-       Kernel: 5.15.0-91-generic 
+ `:MMM:MM`  :MMMM:....::-...-MMMM:MMM:`    Uptime: 2 mins 
+ :MMM:MMM`  :MM:`  ``    ``  `:MMM:MMM:    Packages: 2085 (dpkg) 
+.MMM.MMMM`  :MM.  -MM.  .MM-  `MMMM.MMM.   Shell: bash 5.1.16 
+:MMM:MMMM`  :MM.  -MM-  .MM:  `MMMM-MMM:   Resolution: 1440x900 
+:MMM:MMMM`  :MM.  -MM-  .MM:  `MMMM:MMM:   DE: Xfce 4.18 
+:MMM:MMMM`  :MM.  -MM-  .MM:  `MMMM-MMM:   WM: Xfwm4 
+.MMM.MMMM`  :MM:--:MM:--:MM:  `MMMM.MMM.   WM Theme: Mint-Y-Aqua 
+ :MMM:MMM-  `-MMMMMMMMMMMM-`  -MMM-MMM:    Theme: Mint-Y-Aqua [GTK2/3] 
+  :MMM:MMM:`                `:MMM:MMM:     Icons: Mint-Y-Sand [GTK2/3] 
+   .MMM.MMMM:--------------:MMMM.MMM.      Terminal: xfce4-terminal 
+     '-MMMM.-MMMMMMMMMMMMMMM-.MMMM-'       Terminal Font: Monospace 12 
+       '.-MMMM``--:::::--``MMMM-.'         CPU: Intel Core 2 Duo P8600 (2) @ 2. 
+            '-MMMMMMMMMMMMM-'              GPU: Intel Mobile 4 Series Chipset 
+               ``-:::::-``                 GPU: AMD ATI Mobility Radeon HD 3450 
+                                           Memory: 621MiB / 3808MiB 
+
+
+                   PassMark PerformanceTest Linux (11.0.1002)
+
+
+Intel Core2 Duo CPU     P8600  @ 2.40GHz (x86_64)
+2 cores @ 2401 MHz  |  3.7 GiB RAM
+Number of Processes: 2  |  Test Iterations: 1  |  Test Duration: Medium
+--------------------------------------------------------------------------------
+CPU Mark:                          1133
+  Integer Math                     5107 Million Operations/s
+  Floating Point Math              2981 Million Operations/s
+  Prime Numbers                    4.9 Million Primes/s
+  Sorting                          2625 Thousand Strings/s
+  Encryption                       280 MB/s
+  Compression                      21186 KB/s
+  CPU Single Threaded              1043 Million Operations/s
+  Physics                          114 Frames/s
+  Extended Instructions (SSE)      472 Million Matrices/s
+
+Memory Mark:                       620
+  Database Operations              649 Thousand Operations/s
+  Memory Read Cached               9826 MB/s
+  Memory Read Uncached             5186 MB/s
+  Memory Write                     1847 MB/s
+  Available RAM                    622 Megabytes
+  Memory Latency                   61 Nanoseconds
+  Memory Threaded                  5473 MB/s
+--------------------------------------------------------------------------------
+
